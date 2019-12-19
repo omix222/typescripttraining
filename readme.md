@@ -8,3 +8,8 @@ tsc *.ts
 ```
 
 - jsを使っているhtmlをブラウザで開く
+
+## 参考
+
+- https://dev.classmethod.jp/client-side/javascript/typescript-tutorial/
+- 
